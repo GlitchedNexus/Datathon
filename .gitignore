@@ -10,7 +10,6 @@ wheels/
 .venv
 
 # Data & artifacts (keep structure via .gitkeep)
-data/**
 !data/.gitkeep
 !data/**/.gitkeep
 figs/**
