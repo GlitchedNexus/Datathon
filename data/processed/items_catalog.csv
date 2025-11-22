@@ -1,0 +1,18 @@
+item_name,price,production_cost,item_type,drink_temperature,drink_type,gross_margin_pct
+Espresso,3.0,0.8,Drink,Hot,Coffee,73.33333333333334
+Americano,3.5,1.0,Drink,Hot,Coffee,71.42857142857143
+Latte,4.5,1.2,Drink,Hot,Coffee,73.33333333333333
+Cappuccino,4.25,1.15,Drink,Hot,Coffee,72.94117647058825
+Flat White,4.75,1.25,Drink,Hot,Coffee,73.68421052631578
+Mocha,4.8,1.4,Drink,Hot,Coffee,70.83333333333334
+Iced Coffee,4.0,1.1,Drink,Cold,Coffee,72.5
+Cold Brew,4.75,1.35,Drink,Cold,Coffee,71.57894736842105
+Iced Latte,4.6,1.25,Drink,Cold,Coffee,72.82608695652173
+Iced Matcha Latte,5.25,1.6,Drink,Cold,Tea,69.52380952380952
+Matcha Latte,5.25,1.6,Drink,Hot,Tea,69.52380952380952
+Chai Latte,4.9,1.5,Drink,Hot,Tea,69.38775510204081
+Green Tea,2.9,0.2,Drink,Hot,Tea,93.10344827586206
+Hot Chocolate,4.25,1.1,Drink,Hot,Other,74.11764705882354
+Reusable Coffee Cup,15.0,6.0,Merchandise,,,60.0
+Tote Bag,12.0,4.0,Merchandise,,,66.66666666666666
+Coffee Beans (1 lb),18.0,8.0,Merchandise,,,55.55555555555556
