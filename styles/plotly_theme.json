@@ -1,0 +1,20 @@
+{
+  "layout": {
+    "paper_bgcolor": "#ffffff",
+    "plot_bgcolor": "#ffffff",
+    "font": {"family": "Inter, Segoe UI, sans-serif", "color": "#0c4a6e"},
+    "colorway": ["#38bdf8", "#0284c7", "#0369a1", "#075985", "#0c4a6e", "#fbbf24", "#f97373"],
+    "title": {"font": {"size": 18, "color": "#0c4a6e"}},
+    "xaxis": {
+      "gridcolor": "#e0f2fe",
+      "zerolinecolor": "#e0f2fe",
+      "linecolor": "#0c4a6e"
+    },
+    "yaxis": {
+      "gridcolor": "#e0f2fe",
+      "zerolinecolor": "#e0f2fe",
+      "linecolor": "#0c4a6e"
+    },
+    "legend": {"bgcolor": "rgba(255,255,255,0.8)", "bordercolor": "#e0f2fe"}
+  }
+}

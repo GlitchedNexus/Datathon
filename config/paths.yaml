@@ -1,0 +1,9 @@
+data_raw: data/raw
+data_interim: data/interim
+data_processed: data/processed
+figs_eda: figs/eda
+figs_modeling: figs/modeling
+figs_final: figs/final
+models: artifacts/models
+metrics: artifacts/metrics
+logs: artifacts/logs
