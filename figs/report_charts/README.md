@@ -8,7 +8,7 @@
 
 ---
 
-## Charts Generated
+## Charts Generated (12 Total)
 
 ### 1. `01_daily_profits_comparison.png`
 **Average Daily Profits Before and After Surcharge**
@@ -57,6 +57,34 @@
 - Comparison of usage patterns
 - Box plot showing distribution
 - Identifies temporal patterns in sustainable behavior
+
+### 9. `09_surcharge_scenarios.png`
+**Surcharge Scenario Analysis - Impact of Increasing Surcharge**
+- Models 6 different surcharge amounts ($0.25 to $1.50)
+- Projects adoption rates, revenue, and environmental impact
+- Trade-off analysis between revenue and adoption
+- Identifies optimal surcharge amount
+
+### 10. `10_loyalty_program_roi.png`
+**Loyalty Reward Program (5th Drink Free) - ROI Analysis**
+- Customer segmentation by visit frequency
+- Cost-benefit breakdown of loyalty program
+- Projected profit impact and ROI calculation
+- Visit distribution showing program beneficiaries
+
+### 11. `11_returning_customers.png`
+**Number of Returning Customers**
+- Overall retention rate visualization
+- Monthly trend of new vs returning customers
+- Loyalty level breakdown (2-3 visits up to 20+ visits)
+- Key retention metrics dashboard
+
+### 12. `12_returning_customer_drinks.png`
+**Average Number of Drinks Ordered by Returning Customers**
+- Comparison of drink orders: one-time vs returning
+- Loyalty level distribution and consumption patterns
+- Revenue value comparison
+- Customer lifetime value insights
 
 ---
 
