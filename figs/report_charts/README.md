@@ -8,7 +8,7 @@
 
 ---
 
-## Charts Generated (12 Total)
+## Charts Generated (14 Total)
 
 ### 1. `01_daily_profits_comparison.png`
 **Average Daily Profits Before and After Surcharge**
@@ -85,6 +85,22 @@
 - Loyalty level distribution and consumption patterns
 - Revenue value comparison
 - Customer lifetime value insights
+
+### 13. `13_merchandise_sales_rebranding.png`
+**Average Annual Merchandise Sales Before and After Rebranding**
+- Annual revenue comparison (pre vs post Nov 1, 2023)
+- Daily units sold comparison
+- Revenue breakdown by merchandise item
+- Projected annual profit impact
+- Shows impact of rebranding/surcharge on merchandise sales
+
+### 14. `14_merchandise_by_item.png`
+**Merchandise Performance by Item: Pre vs Post Rebranding**
+- Side-by-side comparison of annual revenue (Pre-actual vs Post-projected)
+- Percent change by item (shows which items grew/declined)
+- Units sold comparison (Pre vs Post)
+- Profit comparison by item (Pre vs Post)
+- Identifies biggest gainers and overall merchandise trends
 
 ---
 
