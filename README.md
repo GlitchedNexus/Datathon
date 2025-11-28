@@ -1,6 +1,4 @@
-## Datathon Scaffold
-
-Lightweight project skeleton for data → features → models → metrics → figures → slides. Uses `uv` for dependency management with a Tailwind sky-inspired visual theme.
+# Loyalty Program & Rebranding Analysis
 
 ### Quickstart
 - Ensure Python 3.12+ is available.
